@@ -1,7 +1,9 @@
 
 const Form = () => {
   return (
-    <div>Form</div>
+    <form>
+      <input type="text" placeholder="Please enter city name"/>
+    </form>
   )
 }
 
